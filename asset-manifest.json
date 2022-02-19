@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/xliferr.github.io/static/css/main.acb9db02.css",
+    "main.js": "/xliferr.github.io/static/js/main.6ee60b95.js",
+    "static/media/avatar.png": "/xliferr.github.io/static/media/avatar.02f6d46309e82cd620a5.png",
+    "static/media/angrybirds.png": "/xliferr.github.io/static/media/angrybirds.078e9660eaae63235670.png",
+    "static/media/ucn.png": "/xliferr.github.io/static/media/ucn.36bbacc83a9c2b0206c2.png",
+    "static/media/mario.jpeg": "/xliferr.github.io/static/media/mario.8ed3615229a526a502bd.jpeg",
+    "static/media/anLISIS.jpg": "/xliferr.github.io/static/media/anLISIS.4ff4420c14834c4d0aff.jpg",
+    "static/media/javascript.jpg": "/xliferr.github.io/static/media/javascript.303c824a68d086f3eb6e.jpg",
+    "static/media/icons8-reaccionar-nativo.svg": "/xliferr.github.io/static/media/icons8-reaccionar-nativo.b37b99f776e34b9c23e188b60721f037.svg",
+    "static/media/icons8-postgresql.svg": "/xliferr.github.io/static/media/icons8-postgresql.6d3129da3f1900ded5afd8286e8e73ef.svg",
+    "static/media/icons8-nodejs.svg": "/xliferr.github.io/static/media/icons8-nodejs.2392983dc38f1c5a989eef634eceddbe.svg",
+    "static/media/7417369_power-bi_softwares_logo_apps_icon.svg": "/xliferr.github.io/static/media/7417369_power-bi_softwares_logo_apps_icon.9bd8855afed5f7f9b6746cd56f58c5b8.svg",
+    "static/media/icons8-logotipo-de-java-coffee-cup.svg": "/xliferr.github.io/static/media/icons8-logotipo-de-java-coffee-cup.5386b56c3206b6bd70b1053534d73dc3.svg",
+    "static/media/icons8-unidad.svg": "/xliferr.github.io/static/media/icons8-unidad.e01f0e366a828cafdede9addc9b362ae.svg",
+    "static/media/icons8-python.svg": "/xliferr.github.io/static/media/icons8-python.026a62687ef705a39cfc755d7457859c.svg",
+    "static/media/icons8-javascript.svg": "/xliferr.github.io/static/media/icons8-javascript.081325c6f229605dce15142ddd948d6d.svg",
+    "index.html": "/xliferr.github.io/index.html",
+    "static/media/icons8-typescript.svg": "/xliferr.github.io/static/media/icons8-typescript.ced98752566ac4b3a366e8e41677cd67.svg",
+    "static/media/icons8-css3.svg": "/xliferr.github.io/static/media/icons8-css3.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
+    "static/media/icons8-html-5.svg": "/xliferr.github.io/static/media/icons8-html-5.c1bb84e022ca9d76984d4b943bd678fd.svg",
+    "static/media/icons8-gitlab.svg": "/xliferr.github.io/static/media/icons8-gitlab.c346a6dd31e34567eba2d3627aeffb80.svg",
+    "main.acb9db02.css.map": "/xliferr.github.io/static/css/main.acb9db02.css.map",
+    "main.6ee60b95.js.map": "/xliferr.github.io/static/js/main.6ee60b95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb9db02.css",
+    "static/js/main.6ee60b95.js"
+  ]
+}
